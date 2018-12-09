@@ -1,0 +1,94 @@
+/*
+================================================
+BASIC DEFINITIONS
+================================================
+*/
+
+body {
+	min-height: 2000px;
+	background: linear-gradient(to top, #111111, #444444);
+	font-family: 'Pathway Gothic One', sans-serif;
+}
+
+/*
+================================================
+TEXT CLASSES
+================================================
+*/
+
+.crt-1 {
+	font-size: 4em;
+	color: greenyellow;
+	text-shadow: 0px 0px 2px lime;
+}
+
+/*
+================================================
+GENERAL CLASSES
+================================================
+*/
+
+.parallax { 
+	background-image: url("../images/retro-bg.png"); 
+	min-height: 550px;  
+	background-attachment: fixed; 
+	background-position: center top; 
+	background-repeat: no-repeat; 
+	background-size: auto; 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+} 
+
+.title-img {
+	max-height: 147px;
+	max-width: 100%;
+	flex: 0 1;
+}
+
+.page-body {
+	border-top: 2px solid cyan;
+	min-height: 100%;
+	min-width: 100%;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+}
+
+/*
+================================================
+ANIMATION CLASSES
+================================================
+*/
+
+.fade-in-down {
+	animation: fadein 1s;
+}
+
+@keyframes fadein {
+	from { 
+		opacity: 0; 
+		transform: translateY(-20px);
+	}
+	to { 
+		opacity: 1; 
+		transform: translateY(0px);
+	}
+}
+
+.blink {
+	animation-name: blink;
+	animation-duration: 800ms;
+	animation-iteration-count: infinite;
+	animation-timing-function: steps(2,end);
+	opacity: 1;
+}
+
+@keyframes blink {
+	0% { 
+		opacity: 0; 
+	}
+	100% { 
+		opacity: 1; 
+	}
+}
