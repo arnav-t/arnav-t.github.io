@@ -29,7 +29,7 @@ GENERAL CLASSES
 */
 
 .parallax { 
-	background-image: url("../images/retro-bg.png"); 
+	background-image: url("../images/retro-bg-min.png"); 
 	min-height: 550px;  
 	background-attachment: fixed; 
 	background-position: center top; 
