@@ -20,6 +20,10 @@ body {
 	background: url("../images/bars.svg") center no-repeat #333333;
 }
 
+.js-loading *, .js-loading *:before, .js-loading *:after {
+	animation-play-state: paused !important;
+}
+
 /*
 ================================================
 TEXT CLASSES
