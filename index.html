@@ -5,6 +5,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	<!-- JQUERY -->
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<!-- END JQUERY -->
 
 	<!-- BOOTSTRAP -->
 	<!-- Latest compiled and minified CSS -->
@@ -26,10 +29,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" rel="stylesheet">
 	<!-- END GWF -->
 
-	<!-- JQUERY -->
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-	<!-- END JQUERY -->
-
 	<link rel="stylesheet" type="text/css" media="screen" href="./static/styles/styles.css" />
 	<script src="./static/scripts/main.js"></script> 
 
@@ -37,10 +36,43 @@
 </head>
 <body class="js-loading">
 	<div class="parallax">
-		<img src="./static/images/arnav-t.png" class="title-img fade-in-down">
+		<img id="scroll-img" src="./static/images/arnav-t.png" class="title-img fade-in-down">
 	</div>
 	<div class="page-body">
-		<h1 class="crt-1">arnav-t@github:~$ echo 'Work in progress.'<span class="blink">&#x258B</span></h1>
+		<h1 class="crt-0 mb-20">arnav-t@github:~$ echo 'Work in progress.'<span class="blink">&#x258B</span></h1>
+		<div id="scroll-div">
+			<img data-aos="fade-down" src="./static/images/scroll.svg" width="100px">
+		</div>
+		<h2 data-aos="fade-up" class="main-1">Projects</h2>
+		<div>
+			<ul>
+				<li class="main-2" data-aos="fade-up-left"><a href="https://github.com/arnav-t/Shooting-Game" target="_blank">Ball Sacker</a></li>
+				<p class="main-4 muted" data-aos="fade-up-left">A top down 2D shooter game made in C++ and OpenCV featuring AI enemies.</p>
+				
+				<li class="main-2" data-aos="fade-up-right"><a href="https://github.com/arnav-t/what-slot" target="_blank">What Slot</a></li>
+				<p class="main-4 muted" data-aos="fade-up-right">Website to organize your time table for minor, additional and breadth courses.</p>			
+				
+				<li class="main-2" data-aos="fade-up-left"><a href="https://github.com/arnav-t/pursuit-wallpapers" target="_blank">Pursuit Wallpapers</a></li>
+				<p class="main-4 muted" data-aos="fade-up-left">Web app to generate wallpapers of pursuit curves.</p>
+
+				<li class="main-2" data-aos="fade-up-right"><a href="https://github.com/arnav-t/cab-api" target="_blank">CASA: Cab Sharing API</a></li>
+				<p class="main-4 muted" data-aos="fade-up-right">API for cab sharing posts.</p>
+
+				<li class="main-2" data-aos="fade-up-left"><a href="https://github.com/arnav-t/xscreencast" target="_blank">xscreencast</a></li>
+				<p class="main-4 muted" data-aos="fade-up-left">Lightweight screencasting tool for the X Window System without any dependencies.</p>
+
+				<li class="main-2" data-aos="fade-up-right"><a href="https://github.com/arnav-t/soft-body" target="_blank">soft-body</a></li>
+				<p class="main-4 muted" data-aos="fade-up-right">Soft Body Physics in C++ using SDL2 graphics library.</p>
+
+				<li class="main-2" data-aos="fade-up-left"><a href="https://github.com/arnav-t/elastic-cord" target="_blank">elastic-cord</a></li>
+				<p class="main-4 muted" data-aos="fade-up-left">Simulation of an elastic cord in C++ using SDL2 graphics library.</p>
+			</ul>
+			<h2 data-aos="fade-up" class="main-1">Demos</h2>
+			<ul>
+				<li data-aos="fade-up-right" class="main-2"><a href="http://what-slot-kgp.herokuapp.com/" target="_blank">What Slot</a></li>
+				<li data-aos="fade-up-left" class="main-2"><a href="https://arnav-t.github.io/pursuit-wallpapers/" target="_blank">Pursuit Wallpapers</a></li>
+			</ul>
+		</div>
 	</div>
 </body>
 <script>
