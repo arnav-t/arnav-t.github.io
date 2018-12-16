@@ -1,3 +1,6 @@
 [submodule "pursuit-wallpapers"]
 	path = pursuit-wallpapers
 	url = https://github.com/arnav-t/pursuit-wallpapers.git
+[submodule "Fractals-JS"]
+	path = Fractals-JS
+	url = https://github.com/arnav-t/Fractals-JS.git
