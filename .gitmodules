@@ -4,3 +4,7 @@
 [submodule "Fractals-JS"]
 	path = Fractals-JS
 	url = https://github.com/arnav-t/Fractals-JS.git
+[submodule "js-boids"]
+	path = js-boids
+	url = https://github.com/arnav-t/js-boids.git
+	branch = master
