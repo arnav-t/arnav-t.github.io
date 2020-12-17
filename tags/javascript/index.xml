@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Arnav Tiwari</title>
+    <link>https://arnav-t.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on Arnav Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Dec 2018 02:19:18 +0530</lastBuildDate><atom:link href="https://arnav-t.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pursuit Curves</title>
+      <link>https://arnav-t.github.io/posts/pursuit/</link>
+      <pubDate>Fri, 14 Dec 2018 02:19:18 +0530</pubDate>
+      
+      <guid>https://arnav-t.github.io/posts/pursuit/</guid>
+      <description>Generating interesting patterns using pursuit curves  Let&amp;rsquo;s say we have a point A traveling on an arbitrary path and another point B pursuing point A such that its velocity is always directed towards point A. The path traced by point B is called a pursuit curve. The tangent of the pursuit curve will always pass through the pursuee&amp;rsquo;s position at that moment of time.
+With this simple rule, nothing special happens if the pursuee is just traveling on a fixed path with a constant velocity.</description>
+    </item>
+    
+  </channel>
+</rss>
