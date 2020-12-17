@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on Arnav Tiwari</title>
+    <link>http://arnav-t.github.io/tags/2019/</link>
+    <description>Recent content in 2019 on Arnav Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 01:06:18 +0530</lastBuildDate><atom:link href="http://arnav-t.github.io/tags/2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discovering Open SMTP Relays</title>
+      <link>http://arnav-t.github.io/posts/smtp/</link>
+      <pubDate>Thu, 14 Nov 2019 01:06:18 +0530</pubDate>
+      
+      <guid>http://arnav-t.github.io/posts/smtp/</guid>
+      <description>A simple way to discover Open SMTP Relays in the wild Disclaimer: This article is for educational purposes only.
+What is SMTP? SMTP is an ancient protocol used for email transmission. As with most ancient protocols, it is relatively simple in design. SMTP works on plaintext only which makes it very easy to play around with.
+What are SMTP Relays? SMTP Relays are like your local post office. They take your mail, figure out where to send it (in this case using DNS), and send it either to another post office along the way or directly to your intended recipient if possible.</description>
+    </item>
+    
+  </channel>
+</rss>

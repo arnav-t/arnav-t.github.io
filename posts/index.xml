@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arnav Tiwari</title>
+    <link>http://arnav-t.github.io/posts/</link>
+    <description>Recent content in Posts on Arnav Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 02:19:18 +0530</lastBuildDate><atom:link href="http://arnav-t.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Summer of Code 2020</title>
+      <link>http://arnav-t.github.io/posts/gsoc20/</link>
+      <pubDate>Tue, 15 Sep 2020 02:19:18 +0530</pubDate>
+      
+      <guid>http://arnav-t.github.io/posts/gsoc20/</guid>
+      <description>My experience as a student developer at Matrix in Google Summer of Code This was my first experience with Google Summer of Code. For the past few months, I had been working on a project to develop an HTML embeddable chat client under the GSoC program for Matrix. Matrix provides a highly versatile SDK for making custom clients that can be leveraged for a variety of applications, one of which is using Matrix to power an embeddable chat client.</description>
+    </item>
+    
+    <item>
+      <title>Discovering Open SMTP Relays</title>
+      <link>http://arnav-t.github.io/posts/smtp/</link>
+      <pubDate>Thu, 14 Nov 2019 01:06:18 +0530</pubDate>
+      
+      <guid>http://arnav-t.github.io/posts/smtp/</guid>
+      <description>A simple way to discover Open SMTP Relays in the wild Disclaimer: This article is for educational purposes only.
+What is SMTP? SMTP is an ancient protocol used for email transmission. As with most ancient protocols, it is relatively simple in design. SMTP works on plaintext only which makes it very easy to play around with.
+What are SMTP Relays? SMTP Relays are like your local post office. They take your mail, figure out where to send it (in this case using DNS), and send it either to another post office along the way or directly to your intended recipient if possible.</description>
+    </item>
+    
+    <item>
+      <title>Navigating 2D objects using 3D configuration spaces</title>
+      <link>http://arnav-t.github.io/posts/3dastar/</link>
+      <pubDate>Fri, 09 Mar 2018 01:06:18 +0530</pubDate>
+      
+      <guid>http://arnav-t.github.io/posts/3dastar/</guid>
+      <description>Using 3D configuration spaces for navigating 2D objects with A* pathfinding algorithm Pathfinding is a very interesting problem. There are already many popular algorithms for finding a path from point A to B such as Dijkstra&amp;rsquo;s algorithm and A* algorithm. However, they operate on the assumption that your path can *squeeze* through the smallest of gaps. Clearly, this would be a problem if you wanted to find a path for a finite object.</description>
+    </item>
+    
+  </channel>
+</rss>
