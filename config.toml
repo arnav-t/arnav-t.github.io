@@ -1,0 +1,38 @@
+baseURL = "http://arnav-t.github.io/"
+languageCode = "en-us"
+title = "Arnav Tiwari"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/"
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
+[params]
+  author = "arnav-t"
+  description = "An unassorted collection of my ramblings on software and cybersecurity."
+  avatar = "images/arnav-t.jpg"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/arnav-t"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/arnav-t"
+  [[params.social]]
+    name = "stackoverflow"
+    url = "https://stackoverflow.com/users/3127633/avz"
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCg2dm7SxYUOg4VLujWFxo8A"
+  [[params.social]]
+    name = "mail"
+    url = "mailto:avznav@gmail.com"
