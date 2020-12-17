@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-12-16T02:45:24+05:30
-draft: true
+draft: false
 ---
 
 Hello! I'm **Arnav Tiwari**, an undergraduate engineering student at the Indian Institute of Technology, Kharagpur. I'm an autodidactic software developer by trade. What kind? I'm figuring it out as I go!        

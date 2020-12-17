@@ -1,4 +1,4 @@
-baseURL = "http://arnav-t.github.io/"
+baseURL = "https://arnav-t.github.io/"
 languageCode = "en-us"
 title = "Arnav Tiwari"
 theme = "m10c"
