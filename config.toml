@@ -36,3 +36,11 @@ theme = "m10c"
   [[params.social]]
     name = "mail"
     url = "mailto:avznav@gmail.com"
+
+  [params.style]
+    darkestColor = "#151515"
+    darkColor = "#252525"
+    primaryColor = "#b824ff"
+    # lightColor = "#ddd"
+    # lightestColor = "#fff"
+
