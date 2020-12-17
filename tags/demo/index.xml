@@ -6,7 +6,18 @@
     <description>Recent content in Demo on Arnav Tiwari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Dec 2018 02:19:18 +0530</lastBuildDate><atom:link href="https://arnav-t.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Apr 2020 02:19:18 +0530</lastBuildDate><atom:link href="https://arnav-t.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulating birds in your browser</title>
+      <link>https://arnav-t.github.io/posts/boids/</link>
+      <pubDate>Thu, 30 Apr 2020 02:19:18 +0530</pubDate>
+      
+      <guid>https://arnav-t.github.io/posts/boids/</guid>
+      <description>Boids: simulating the flocking behavior of birds  Bird-oid objects or &amp;ldquo;boids&amp;rdquo; for short is a simple way to simulate the flocking behavior of birds using some simple rules. Boids exhibit emergent behavior (similar to pursuit curves) which means that the complexity of Boids arises from the interaction of many boids together adhering to a set of simple rules.
+A typical simulation has three main rules:
+ Separation: boids try to avoid colliding with each other.</description>
+    </item>
+    
     <item>
       <title>Pursuit Curves</title>
       <link>https://arnav-t.github.io/posts/pursuit/</link>

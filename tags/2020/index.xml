@@ -16,5 +16,16 @@
       <description>My experience as a student developer at Matrix in Google Summer of Code This was my first experience with Google Summer of Code. For the past few months, I had been working on a project to develop an HTML embeddable chat client under the GSoC program for Matrix. Matrix provides a highly versatile SDK for making custom clients that can be leveraged for a variety of applications, one of which is using Matrix to power an embeddable chat client.</description>
     </item>
     
+    <item>
+      <title>Simulating birds in your browser</title>
+      <link>https://arnav-t.github.io/posts/boids/</link>
+      <pubDate>Thu, 30 Apr 2020 02:19:18 +0530</pubDate>
+      
+      <guid>https://arnav-t.github.io/posts/boids/</guid>
+      <description>Boids: simulating the flocking behavior of birds  Bird-oid objects or &amp;ldquo;boids&amp;rdquo; for short is a simple way to simulate the flocking behavior of birds using some simple rules. Boids exhibit emergent behavior (similar to pursuit curves) which means that the complexity of Boids arises from the interaction of many boids together adhering to a set of simple rules.
+A typical simulation has three main rules:
+ Separation: boids try to avoid colliding with each other.</description>
+    </item>
+    
   </channel>
 </rss>
