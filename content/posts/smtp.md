@@ -1,7 +1,7 @@
 ---
 title: "Discovering Open SMTP Relays"
 date: 2019-11-14T01:06:18+05:30
-tags: ["Security", "2019"]
+tags: ["Security", "Python", "Shell", "2019"]
 draft: false
 ---
 
