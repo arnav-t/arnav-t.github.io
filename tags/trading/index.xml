@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trading on Arnav Tiwari</title>
+    <link>https://arnav-t.github.io/tags/trading/</link>
+    <description>Recent content in Trading on Arnav Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jul 2018 02:19:18 +0530</lastBuildDate><atom:link href="https://arnav-t.github.io/tags/trading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turning a profit on Steam using Python</title>
+      <link>https://arnav-t.github.io/posts/hatbot/</link>
+      <pubDate>Tue, 03 Jul 2018 02:19:18 +0530</pubDate>
+      
+      <guid>https://arnav-t.github.io/posts/hatbot/</guid>
+      <description>Flipping Team Fortress 2 hats using Python to turn a profit Team Fortress 2 is a great example of a game that has stood the test of time. The TF2 community has been active since 2007 but it really got popular when Valve introduced tradable hats in 2009. With these cosmetic items, an in-game economy was born. These items were randomly dropped in-game or unboxed randomly by unlocking a crate using a key.</description>
+    </item>
+    
+  </channel>
+</rss>

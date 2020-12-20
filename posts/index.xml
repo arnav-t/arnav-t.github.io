@@ -49,6 +49,15 @@ With this simple rule, nothing special happens if the pursuee is just traveling 
     </item>
     
     <item>
+      <title>Turning a profit on Steam using Python</title>
+      <link>https://arnav-t.github.io/posts/hatbot/</link>
+      <pubDate>Tue, 03 Jul 2018 02:19:18 +0530</pubDate>
+      
+      <guid>https://arnav-t.github.io/posts/hatbot/</guid>
+      <description>Flipping Team Fortress 2 hats using Python to turn a profit Team Fortress 2 is a great example of a game that has stood the test of time. The TF2 community has been active since 2007 but it really got popular when Valve introduced tradable hats in 2009. With these cosmetic items, an in-game economy was born. These items were randomly dropped in-game or unboxed randomly by unlocking a crate using a key.</description>
+    </item>
+    
+    <item>
       <title>Navigating 2D objects using 3D configuration spaces</title>
       <link>https://arnav-t.github.io/posts/3dastar/</link>
       <pubDate>Fri, 09 Mar 2018 01:06:18 +0530</pubDate>

@@ -18,5 +18,14 @@ What is SMTP? SMTP is an ancient protocol used for email transmission. As with m
 What are SMTP Relays? SMTP Relays are like your local post office. They take your mail, figure out where to send it (in this case using DNS), and send it either to another post office along the way or directly to your intended recipient if possible.</description>
     </item>
     
+    <item>
+      <title>Turning a profit on Steam using Python</title>
+      <link>https://arnav-t.github.io/posts/hatbot/</link>
+      <pubDate>Tue, 03 Jul 2018 02:19:18 +0530</pubDate>
+      
+      <guid>https://arnav-t.github.io/posts/hatbot/</guid>
+      <description>Flipping Team Fortress 2 hats using Python to turn a profit Team Fortress 2 is a great example of a game that has stood the test of time. The TF2 community has been active since 2007 but it really got popular when Valve introduced tradable hats in 2009. With these cosmetic items, an in-game economy was born. These items were randomly dropped in-game or unboxed randomly by unlocking a crate using a key.</description>
+    </item>
+    
   </channel>
 </rss>
