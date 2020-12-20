@@ -57,5 +57,15 @@ With this simple rule, nothing special happens if the pursuee is just traveling 
       <description>Using 3D configuration spaces for navigating 2D objects with A* pathfinding algorithm Pathfinding is a very interesting problem. There are already many popular algorithms for finding a path from point A to B such as Dijkstra&amp;rsquo;s algorithm and A* algorithm. However, they operate on the assumption that your path can *squeeze* through the smallest of gaps. Clearly, this would be a problem if you wanted to find a path for a finite object.</description>
     </item>
     
+    <item>
+      <title>Soft-body physics using springs</title>
+      <link>https://arnav-t.github.io/posts/softbody/</link>
+      <pubDate>Sat, 21 Mar 2015 02:19:18 +0530</pubDate>
+      
+      <guid>https://arnav-t.github.io/posts/softbody/</guid>
+      <description>Simulating soft-bodies using springs   Soft-bodies are fun to play around with. It is quite satisfying to throw around a soft-body in a simulation and watch the seemingly complicated behavior that unfolds.
+However, the truth is, soft-bodies are far simpler to simulate than rigid bodies. Rigid bodies require more involved impulse calculations whereas a simple convex-rigid body simulation can just be approximated using point-to-point interactions. This can be simplified much further when the interactions are between a plane and a body, in fact, the body doesn&amp;rsquo;t even need to convex anymore.</description>
+    </item>
+    
   </channel>
 </rss>

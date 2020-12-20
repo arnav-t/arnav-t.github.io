@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C&#43;&#43; on Arnav Tiwari</title>
-    <link>https://arnav-t.github.io/tags/c&#43;&#43;/</link>
-    <description>Recent content in C&#43;&#43; on Arnav Tiwari</description>
+    <title>Physics on Arnav Tiwari</title>
+    <link>https://arnav-t.github.io/tags/physics/</link>
+    <description>Recent content in Physics on Arnav Tiwari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Mar 2018 01:06:18 +0530</lastBuildDate><atom:link href="https://arnav-t.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Navigating 2D objects using 3D configuration spaces</title>
-      <link>https://arnav-t.github.io/posts/3dastar/</link>
-      <pubDate>Fri, 09 Mar 2018 01:06:18 +0530</pubDate>
-      
-      <guid>https://arnav-t.github.io/posts/3dastar/</guid>
-      <description>Using 3D configuration spaces for navigating 2D objects with A* pathfinding algorithm Pathfinding is a very interesting problem. There are already many popular algorithms for finding a path from point A to B such as Dijkstra&amp;rsquo;s algorithm and A* algorithm. However, they operate on the assumption that your path can *squeeze* through the smallest of gaps. Clearly, this would be a problem if you wanted to find a path for a finite object.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 21 Mar 2015 02:19:18 +0530</lastBuildDate><atom:link href="https://arnav-t.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soft-body physics using springs</title>
       <link>https://arnav-t.github.io/posts/softbody/</link>
